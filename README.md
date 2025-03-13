@@ -32,6 +32,7 @@ Una de las principales mejoras fue la implementación de un pre-carrito de compr
 </p>
 
 🤝 **UI**
+- [Zcred](https://www.figma.com/design/ESVvKkc3otgCwF0gYEKOcD/Zcred_KIT_UI?node-id=0-1&p=f&t=RYzPmrC0Vm0QDBbQ-0)
 - [Kortex](https://www.figma.com/design/eMgb9ShrqM24VReeYMxSaT/kortex-2025?node-id=0-1&t=z0qYxnrnE87SXZWD-1)
 - [InnovationHealth](https://www.figma.com/design/T4sqjH9AvuSaCPdpK8IjtG/Dise%C3%B1o-IH?node-id=0-1&t=YegeDCHtV0u6IotS-1)
 - [Cassis](https://www.figma.com/design/IXYVfZC4QjMolzmP8FnUav/cassis-E2-PRECART-%7C-CART-FINAL?node-id=0-1&p=f&t=sXNWce0L0B3WXLvI-0)
