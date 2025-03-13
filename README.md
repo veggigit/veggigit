@@ -2,10 +2,11 @@
 ### Web developer
 
 Desarrollador Laravel, JavaScript, WP y Filament PHP, con experiencia en desarrollo de plataformas escalables, integración de APIs y optimización de UI con Tailwind CSS.
+[Download CV](https://drive.google.com/file/d/1q0_Pko95GbRH1Gcd7K1oKoNuo0MY8KMF/view?usp=drive_link)
 
 🛠️ **Tech Stack**
-- Front: `js` `vuejs` `livewire` `alpinejs`
-- Advanced: `php` `html5` `css3`
+- Front: `js` `vuejs` `livewire` `alpinejs` `tailwind` `css3`
+- Back: `php` `apache2` `mariadb` `mysql` `api`
 
 🔭 **Proyectos Destacados**
 - [Kortex](https://new.kortex.cl/aB3c5d7eF9gH1) - Este proyecto es una plataforma web que permite a los usuarios explorar un catálogo de productos, generar cotizaciones y realizar compras de manera sencilla. Cuenta con una integración con la pasarela de pagos Transbank, lo que permite procesar pagos de forma segura. Además, los usuarios pueden optar por pagar un pie de pago, facilitando compras con pagos parciales.
