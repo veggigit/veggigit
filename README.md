@@ -13,8 +13,11 @@ Passionate software engineer with expertise in full-stack development and cloud 
 - [Kortex](https://new.kortex.cl/aB3c5d7eF9gH1) - Este proyecto es una plataforma web que permite a los usuarios explorar un catálogo de productos, generar cotizaciones y realizar compras de manera sencilla. Cuenta con una integración con la pasarela de pagos Transbank, lo que permite procesar pagos de forma segura. Además, los usuarios pueden optar por pagar un pie de pago, facilitando compras con pagos parciales.
 `vuejs` `laravel` `filament` `apache2` `mariadb` `html5` `css3`
 
-- [EstudioComo](https://new.kortex.cl/aB3c5d7eF9gH1) - Se desarrolló un sitio web para Estudio COMO, un estudio especializado en foodstyling, con un enfoque en la estética visual y la interacción. La plataforma destaca por su diseño altamente atractivo, con animaciones y transiciones fluidas, logradas mediante un uso intensivo de la Intersection Observer API para optimizar la experiencia de usuario.Además, cuenta con un panel de administración desarrollado con Filament PHP, permitiendo al equipo gestionar el contenido de manera sencilla y eficiente.
+- [EstudioComo](https://www.estudiocomo.com) - Se desarrolló un sitio web para Estudio COMO, un estudio especializado en foodstyling, con un enfoque en la estética visual y la interacción. La plataforma destaca por su diseño altamente atractivo, con animaciones y transiciones fluidas, logradas mediante un uso intensivo de la Intersection Observer API para optimizar la experiencia de usuario.Además, cuenta con un panel de administración desarrollado con Filament PHP, permitiendo al equipo gestionar el contenido de manera sencilla y eficiente.
 `vuejs` `laravel` `filament` `apache2` `mariadb` `js` `html5` `css3`
+
+- [CentroEventosPV](https://centroeventospv.cl/) - Se diseñó y desarrolló una plataforma web de cotización de eventos para Centro Eventos PV, permitiendo a los usuarios configurar y estimar el costo de sus eventos de manera rápida y sencilla.El sistema guía al usuario a través de un proceso interactivo de selección de servicios, facilitando la personalización de su evento y generando una cotización en tiempo real.
+  `alpinejs` `laravel` `apache2` `mariadb` `js` `html5` `css3`
 
 📊 **GitHub Stats**
 <p align="center">
