@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/16480594?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
 # Esteban Cajina
 ### Web developer
 
