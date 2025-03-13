@@ -19,7 +19,6 @@ Passionate software engineer with expertise in full-stack development and cloud 
 
 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veggigit&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veggigit&theme=dark" alt="GitHub Streak" />
 </p>
 
