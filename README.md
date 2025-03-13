@@ -1,7 +1,7 @@
 # Esteban Cajina
 ### Web developer
 
-Passionate software engineer with expertise in full-stack development and cloud technologies.
+Desarrollador Laravel, JavaScript, WP y Filament PHP, con experiencia en desarrollo de plataformas escalables, integración de APIs y optimización de UI con Tailwind CSS.
 
 🛠️ **Tech Stack**
 - Front: `js` `vuejs` `livewire` `alpinejs`
